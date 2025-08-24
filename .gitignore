@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+jobs.db
+cronjob.log
+.env
+venv/
